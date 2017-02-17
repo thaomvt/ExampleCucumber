@@ -1,0 +1,13 @@
+com\axonactive\stepDefinition\Person\CreatePersonStepDef.class
+com\axonactive\pages\Person\NaturalPersonPage.class
+com\axonactive\pages\MainPage.class
+com\axonactive\stepDefinition\Person\ClosePersonStepDef.class
+com\axonactive\pages\DictionaryPage.class
+com\axonactive\stepsHelper\Person\PersonSteps.class
+com\axonactive\stepDefinition\DefinitionSteps.class
+com\axonactive\hook\CucumberHooks.class
+com\axonactive\stepDefinition\Person\SearchPersonStepDef.class
+com\axonactive\DefinitionTestSuite.class
+com\axonactive\pages\DictionaryPage$1.class
+com\axonactive\stepsHelper\EndUserSteps.class
+com\axonactive\pages\Person\NewNaturalPersonPage.class
